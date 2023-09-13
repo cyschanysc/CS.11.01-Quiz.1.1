@@ -17,8 +17,6 @@ public class Main {
         System.out.println("Please enter your favourite food:");
         favouriteFood = scanner.next();
 
-        System.out.println("First name: " + firstName);
-        System.out.println("Age: " + age);
-        System.out.println("Favourite food: " + favouriteFood);
+        System.out.println("First name: " + firstName +"\nAge: " + age + "\nFavourite food: " + favouriteFood);
     }
 }
